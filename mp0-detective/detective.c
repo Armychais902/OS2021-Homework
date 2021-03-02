@@ -43,6 +43,7 @@ void findFile(char *path, char *commission,int *obtain){
         *fpath++='/';
         /* fpath move to after '/'
          * '/' being added to buf
+         * explanation: https://tclin914.github.io/e9206a47/
          */
         int pid=getpid();
         while(read(fd,&dir,sizeof(dir))==sizeof(dir)){
