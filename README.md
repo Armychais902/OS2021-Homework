@@ -14,8 +14,10 @@ My programming homework in OS lecture in NTU CSIE:
 
 - Machine Problem 2 - Shared Memory
   - Upload Source Code: 20210421
-  - Pass Judge: (TBC)
+  - Pass Judge: 20210521
 
-- Machine Problem 3
+- Machine Problem 3 - Scheduling
+  - Upload Source Code: 20210531
+  - Pass Judge: 20210526
 
 - Machine Problem 4
